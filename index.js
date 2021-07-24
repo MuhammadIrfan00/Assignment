@@ -19,7 +19,7 @@
 
 var available = document.getElementById('available')
 var obj = {
-    name: 'Irfan',
+    name: 'muhammad Irfan',
     email: 'abc@gmail.com',
     password: 'Start@#',
     age: '25',
